@@ -1,2 +1,1 @@
-# FINANCIAL-ANALYTICS-WITH-PYTHON
-financial 
+My Blog 
